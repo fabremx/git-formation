@@ -19,10 +19,12 @@ As this is an advanced exercise, there are no specific steps to follow and no si
 
 ## Task
 
-Currently your commits look like this
+Currently your commits look like this:
+
 ![Starting Tree](images/starting.jpg)
 
 But you want it to look like this:
+
 ![Ending Tree](images/ending.jpg)
 
 ### useful commands

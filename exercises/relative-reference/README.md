@@ -11,7 +11,7 @@ We want to pratice our skill with relative reference.
 
 ## Subject
 
-Currently your commits look like this
+Currently your commits look like this:
 
 ![Starting Tree](images/starting.jpg)
 

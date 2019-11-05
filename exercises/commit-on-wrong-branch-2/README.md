@@ -14,10 +14,12 @@ After the bug fix, you continue to work on the new feature. After you committed 
 
 ## Subject
 
-Currently your commits look like this
+Currently your commits look like this:
+
 ![Starting Tree](images/starting.jpg)
 
 But you want it to look like this:
+
 ![Ending Tree](images/ending.jpg)
 
 ## Useful Commands

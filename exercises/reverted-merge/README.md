@@ -18,13 +18,15 @@ Unfortunately, you discover after your merge that the library has a bug, which h
 
 ## Subject
 
-Currently your commits look like this
+Currently your commits look like this:
+
 ![Starting Tree](images/starting.jpg)
 
 We consider that the Y feature is also compatible with library 1.2.3. So we want to keep it.
 During this exercice take the role of the library team and fix the bug in the library on the integrate branch, e.g. change  `lib.txt`.
 
 At the end you want your commits tree looks like this:
+
 ![Ending Tree](images/ending.jpg)
 
 ## Useful commands

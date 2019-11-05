@@ -11,11 +11,11 @@ We want to pratice our skill with the git command cherry-pick
 
 ## Subject
 
-Currently your commits look like this:&nbsp;
+Currently your commits look like this:
 
 ![Starting Tree](images/starting.jpg)
 
-But you want it to look like this:&nbsp;
+But you want it to look like this:
 
 ![Ending Tree](images/ending.jpg)
 

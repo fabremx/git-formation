@@ -11,10 +11,12 @@ Since your current HEAD is not ready for prime time, you backup one commit, and 
 
 That's when you realize you created a minor mess with your branches.
 
-Currently your commits look like this
+Currently your commits look like this:
+
 ![Starting Tree](images/starting.jpg)
 
 But you want it to look like this:
+
 ![Ending Tree](images/ending.jpg)
 
 ## Useful commands
