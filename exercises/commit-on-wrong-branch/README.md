@@ -1,4 +1,4 @@
-# Git kata - Commit on wrong branch
+# Git exercise - Commit on wrong branch
 
 ## Setup
 1. Run `. setup.sh` (or `.\setup.ps1` in PowerShell)
@@ -11,10 +11,10 @@ Since your current HEAD is not ready for prime time, you backup one commit, and 
 That's when you realize you created a minor mess with your branches.
 
 Currently your commits look like this
-![Starting Tree](exercises/commit-on-wrong-branch/images/starting.jpg)
+![Starting Tree](images/starting.jpg)
 
 But you want it to look like this:
-![Ending Tree](exercises/commit-on-wrong-branch/images/ending.jpg)
+![Ending Tree](images/ending.jpg)
 
 ## Useful commands
 
