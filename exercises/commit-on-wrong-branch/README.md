@@ -2,6 +2,7 @@
 
 ## Setup
 1. Run `. setup.sh`
+2. Go into exercise/ folder
 
 ## Subject
 You are working really hard on the master branch. Part of your work is already committed. This is when your boss comes in with an urgent request.
