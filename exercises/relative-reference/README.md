@@ -12,9 +12,11 @@ We want to pratice our skill with relative reference.
 ## Subject
 
 Currently your commits look like this
+
 ![Starting Tree](images/starting.jpg)
 
 But you want it to look like this:
+
 ![Ending Tree](images/ending.jpg)
 
 ## Useful Commands
