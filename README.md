@@ -18,6 +18,7 @@ Exercises are divided into two categories :
 -   Go into the folder you want to solve an exercise in
 -   Run the  `setup.sh`  script
 -   Consult the README.md in that folder to get a description of the exercise
+-   Resolve exercise in the created folder exercise/
 
 ## [](https://github.com/fabremx/git-formation#cheatsheet)Cheatsheet
 

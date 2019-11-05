@@ -1,7 +1,7 @@
 # Git exercise - Commit on wrong branch
 
 ## Setup
-1. Run `. setup.sh` (or `.\setup.ps1` in PowerShell)
+1. Run `. setup.sh`
 
 ## Subject
 You are working really hard on the master branch. Part of your work is already committed. This is when your boss comes in with an urgent request.
