@@ -12,6 +12,25 @@ Exercises are divided into two categories :
 - Excercises to learn one specific git command
 - Excercises to pratice git commands in a mini scenario
 
+## [](https://github.com/fabremx/git-formation#exercises-list)Exercises list
+
+### Learn basic git commands
+-   [Basic Staging](https://github.com/fabremx/git-formation/tree/master/exercises/basic-staging)
+-   [Basic Stashing](https://github.com/fabremx/git-formation/tree/master/exercises/basic-stashing)
+-   [Find Tree history](https://github.com/fabremx/git-formation/tree/master/exercises/find-tree-history)
+-   [Relative Reference](https://github.com/fabremx/git-formation/tree/master/exercises/relative-reference)
+-   [Revert commit](https://github.com/fabremx/git-formation/tree/master/exercises/basic-revert)
+-   [Reset commit](https://github.com/fabremx/git-formation/tree/master/exercises/basic-reset)
+-   [Amend commit](https://github.com/fabremx/git-formation/tree/master/exercises/amend)
+-   [Cherry-pick](https://github.com/fabremx/git-formation/tree/master/exercises/cherry-pick)
+-   [Interactive Rebase](https://github.com/fabremx/git-formation/tree/master/exercises/interactive-rebase)
+
+### Practice git in scenarized exercises
+-   [Commit on Wrong Branch](https://github.com/fabremx/git-formation/tree/master/exercises/commit-on-wrong-branch)
+-   [Reverted Merge](https://github.com/fabremx/git-formation/tree/master/exercises/reverted-merge)
+-   [Commit on Wrong Branch #2](https://github.com/fabremx/git-formation/tree/master/exercises/commit-on-wrong-branch-2)
+
+
 ## [](https://github.com/fabremx/git-formation#quick-start)Setup Exercises
 
 -   Clone this repository
